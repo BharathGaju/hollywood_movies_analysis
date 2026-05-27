@@ -6,10 +6,10 @@ Audience response/popularity
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nhZkl7TQw3xkznIfGHZV3_f3oHDgofTh#scrollTo=N6_3oH5Q-yKN)
 
-Business Problem:
+#Business Problem:
 "What makes a movie successful — and is success about money, quality, or audience reach? And who gets the resources to even try?"
 
-Tools Used
+#Tools Used
 Python
 Pandas
 NumPy
@@ -17,7 +17,7 @@ Matplotlib
 Seaborn
 Google Colab
 
-Questions answered
+#Questions answered
 
 On Money — Budget vs. Revenue
 
