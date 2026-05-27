@@ -1,15 +1,12 @@
 This dataset is basically about the movie industry, combining information about:
-
 Movies
-
 Directors
-
 Financial performance
-
 Audience response/popularity
 
-Business Problem:
+https://colab.research.google.com/drive/1nhZkl7TQw3xkznIfGHZV3_f3oHDgofTh#scrollTo=N6_3oH5Q-yKN
 
+Business Problem:
 "What makes a movie successful — and is success about money, quality, or audience reach? And who gets the resources to even try?"
 
 Tools Used
