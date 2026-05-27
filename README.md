@@ -4,9 +4,8 @@ Directors
 Financial performance
 Audience response/popularity
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
-(https://colab.research.google.com/drive/1nhZkl7TQw3xkznIfGHZV3_f3oHDgofTh#scrollTo=N6_3oH5Q-yKN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nhZkl7TQw3xkznIfGHZV3_f3oHDgofTh#scrollTo=N6_3oH5Q-yKN)
 
 #Business Problem:
 "What makes a movie successful — and is success about money, quality, or audience reach? And who gets the resources to even try?"
